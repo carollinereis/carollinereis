@@ -16,7 +16,6 @@
 ### About Me
 - 🌱 I’m currently learning **Python** and **Spanish**
 - 🎓 Graduated in **International Business** from Southeastern University, FL
-- 💬 Ask me about **Cloud Computing**
 - ⚡ Fun fact: **Former Student-Athlete**
 
 ---
@@ -26,6 +25,8 @@
 - **Teamwork & Collaboration:** Years of high-level sports taught me how to work effectively in diverse teams.
 - **Time Management:** Successfully balanced a demanding athletic schedule with academic excellence.
 - **Problem Solving:** Quick thinking and adaptability in fast-paced environments.
+
+---
 
 ### 🌎 Languages
 - **Brazilian Portuguese:** Native
