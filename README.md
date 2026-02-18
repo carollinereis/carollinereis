@@ -14,7 +14,7 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning **Python** and **Spanish**
+- 🌱 I’m currently learning **Python** and working towards my **AZ-900 (Microsoft Azure Fundamentals)** certification.
 - 🎓 Graduated in **International Business** from Southeastern University, FL
 - ⚡ Fun fact: **Former Student-Athlete**
 
