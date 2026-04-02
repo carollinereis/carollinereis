@@ -5,7 +5,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 📜 Certification
+### 📜 Certifications
 [![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f829109e-2630-433c-9d9b-84aad71b515b/public_url)
 
 [![AZ Certified](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/pt-br/CarollineRezendeReis-9604/13BD4A5B03AF51C4?sharingId=76C83A5E19AFD071)
