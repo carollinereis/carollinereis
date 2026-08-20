@@ -7,7 +7,6 @@
 ## About Me
 - 🎓 **MBA Candidate** in Software Engineering at USP Esalq.
 - 🎓 Graduated in **International Business** from Southeastern University, FL.
-- 🌱 I’m currently building web applications with **Python & Django** (CS50W) and deep-diving into cloud architectures.
 - ⚡ Fun fact: **Former Student-Athlete**
 
 ---
