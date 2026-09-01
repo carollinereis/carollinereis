@@ -11,13 +11,11 @@
 
 ---
 
-## Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511F2.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### Technologies
+
+* **Frontend & Backend:** `Python` `React` `FastAPI`
+* **Data & AI:** `DuckDB` `XGBoost` `LangChain` `Ollama`
+* **Cloud:** `AWS` `Azure`
 
 ---
 
